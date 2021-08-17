@@ -1,0 +1,13 @@
+{
+  "name": "canvas_project_js_and_c",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Miguel Rivas <rivasmig@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
